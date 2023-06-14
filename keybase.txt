@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ipv6tech
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ipv6tech.net
+  * I am ipv6tech (https://keybase.io/ipv6tech) on keybase.
+  * I have a public key ASDvtss8IE45WhD-9wL0zcj4J7dDflWUtE3VvuDdj17tjAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b4a08b1f0cee65e785423e02d764d95760dd820e8d307c76718af8ba3316b8850a",
+      "host": "keybase.io",
+      "kid": "0120efb6cb3c204e395a10fef702f4cdc8f827b7437e5594b44dd5bee0dd8f5eed8c0a",
+      "uid": "6661df78567821067341396d2ac8c819",
+      "username": "ipv6tech"
+    },
+    "merkle_root": {
+      "ctime": 1679513386,
+      "hash": "f17553a5cbf53eace9e4c25e2e4600caf9f9dac8dbccf28ccd89339d3af701ce68aa768bb687d6cad70d584605fda1e2b7958ea59ab6cd23508a0d9f4be1e212",
+      "hash_meta": "1147c4e0c266a1a3abf2a968aa2a242ea11b6e7d9917d39361e0ec2bc04548ca",
+      "seqno": 24235003
+    },
+    "service": {
+      "entropy": "unmJBMa0sODwxT0FiJ4VmhFS",
+      "hostname": "ipv6tech.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1679513499,
+  "expire_in": 504576000,
+  "prev": "0a209018c68214edff8c9800d4e58842bd521c9abf2f35d321f2bfcdfcf5a58f",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg77bLPCBOOVoQ/vcC9M3I+Ce3Q35VlLRN1b7g3Y9e7YwKp3BheWxvYWTESpcCNcQgCiCQGMaCFO3/jJgA1OWIQr1SHJq/LzXTIfK/zfz1pY/EIJRuuX77xCiA0R4YBrJOo1iDaA4ngSjewh5cHWzOZ4ABAgHCo3NpZ8RA1rTYgRlyokk7PZd+x/QUXFOBP+gIucJsylMKHiVy8TsbMv5VBKz8Nnwo4u6gPirlMfkRbeqJEfau4qWHBB1sCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILQLCApGxP1dhE6GnUX8c+EIiA82rMZbd0Rekanb+VUYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ipv6tech
+
+==================================================================
